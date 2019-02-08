@@ -27,7 +27,7 @@
     <td>32</td><td>3</td><td>PACMEN</td><td>80</td><td><a href = "https://github.com/anshuman10398">Anshuman Singh</a></td><td><a href = "https://github.com/sohamantrolikar">Soham Antrolikar</a></td><td></td>
   </tr>
  <tr>
-   <td>33</td><td>3</td><td>indian5230</td><td><a href="https://github.com/Rohit-5230">Rohit Kumar Singh</a></td>
+   <td>33</td><td>3</td><td>indian5230</td><td>80</td><td><a href="https://github.com/Rohit-5230">Rohit Kumar Singh</a></td>
   </tr>
 </table>
 
